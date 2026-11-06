@@ -1,0 +1,22 @@
+{
+  "TRIDENT": {
+    "cooldown": 300,
+    "action": [
+      "use"
+    ]
+  },
+  "TOTEM_OF_UNDYING": {
+    "cooldown": 120,
+    "action": [
+      "pickup",
+      "containers"
+    ]
+  },
+  "ELYTRA": {
+    "cooldown": 300,
+    "action": [
+      "equip",
+      "use"
+    ]
+  }
+}

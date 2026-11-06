@@ -1,0 +1,10 @@
+name: StalenSMPCooldown
+version: 1.0.0
+main: nl.stalensmp.StalenSMPCooldown
+api-version: '1.20'
+author: Youp / Winterslaap
+commands:
+  stalencooldown:
+    description: Herlaad de ItemCooldown config.json
+    permission: stalencooldown.admin
+    aliases: [screload, icreload]
